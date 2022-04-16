@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AmitSharma30
+- 👋 Hi, I’m Amit Sharma
 - 👀 I’m interested in Blockchain, Cryptos & NFTs.
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Cryptos, NFTs, Data Science, AI & ML.
